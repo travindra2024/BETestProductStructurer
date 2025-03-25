@@ -1,0 +1,7 @@
+
+fastapi
+uvicorn
+openai
+pdfplumber
+beautifulsoup4
+python-multipart
