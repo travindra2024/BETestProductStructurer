@@ -5,3 +5,4 @@ openai
 pdfplumber
 beautifulsoup4
 python-multipart
+requests
